@@ -3,7 +3,7 @@
 ## Description
 602 People –3,010 Images Multi-Races Human Body Semantic Segmentation Data,The data diversity includes headphones, body, background,and glasses.In terms of annotation, we adpoted segmentation annotations on headphones, body, background and glasses.The data can be used for tasks such as human body segmentation and the behavior detection of Video conference.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1181?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1181?source=Github
 
 
 ## Data size
